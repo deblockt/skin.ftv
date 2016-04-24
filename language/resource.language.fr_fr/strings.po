@@ -1,0 +1,1042 @@
+# XBMC Media Center language file
+# Addon Name: fTV
+# Addon id: skin.ftv
+# Addon Provider: Hitcher
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Main\n"
+"Report-Msgid-Bugs-To: http://trac.xbmc.org/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: XBMC Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-main/language/en/)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#31100"
+msgid "Photos"
+msgstr ""
+
+msgctxt "#31001"
+msgid "US"
+msgstr ""
+
+msgctxt "#31002"
+msgid "UK"
+msgstr ""
+
+msgctxt "#31003"
+msgid "Germany"
+msgstr "Allemand"
+
+msgctxt "#31004"
+msgid "minute"
+msgstr ""
+
+msgctxt "#31005"
+msgid "hour"
+msgstr "heure"
+
+msgctxt "#31006"
+msgid "Starts at"
+msgstr "commence à"
+
+msgctxt "#31101"
+msgid "Apps"
+msgstr "Application"
+
+msgctxt "#31102"
+msgid "Text Search"
+msgstr "recherche dans le texte"
+
+msgctxt "#31103"
+msgid "Artwork Downloader"
+msgstr "telechargement artwork"
+
+msgctxt "#31104"
+msgid "Cinema Experience"
+msgstr "Cinema Experience"
+
+msgctxt "#31000"
+msgid "Audio Options"
+msgstr "Options audio"
+
+msgctxt "#31007"
+msgid "System music files"
+msgstr "musique du système de fichiers"
+
+msgctxt "#31008"
+msgid "Current selection"
+msgstr "Sélection actuelle"
+
+msgctxt "#31014"
+msgid "Next Movie"
+msgstr "Film suivante"
+
+msgctxt "#31015"
+msgid "Next Video"
+msgstr "Vidéo suivante"
+
+msgctxt "#31009"
+msgid "Open playlist"
+msgstr "Ouvrir playlist"
+
+msgctxt "#31017"
+msgid "View all of your enabled and disabled add-ons."
+msgstr "voir tous vos add-ons activées et désactivées"
+
+msgctxt "#31018"
+msgid "View add-ons that have updates available."
+msgstr "Voir les add-ons qui ont des mises à jour disponibles"
+
+msgctxt "#31019"
+msgid "View add-ons that are currently being downloaded."
+msgstr "Voir add-ons qui sont actuellement en cours de téléchargement"
+
+msgctxt "#31020"
+msgid ""
+"View all the system add-ons including Dependencies, Orphaned Dependencies, "
+"and Running add-ons."
+msgstr "Voir tous les système add-ons, y compris les dépendances, les dépendances orphelines"
+"Et exécution des add-ons"
+
+msgctxt "#31021"
+msgid "Download add-ons from your installed repos."
+msgstr "Télécharger des add-ons de vos repos installés"
+
+msgctxt "#31010"
+msgid "Save playlist"
+msgstr "Enregistrer playlist"
+
+msgctxt "#31011"
+msgid "Close playlist"
+msgstr "Fermer playlist"
+
+msgctxt "#31012"
+msgid "Current playlist"
+msgstr "playlist actuelle"
+
+msgctxt "#31013"
+msgid "Muted"
+msgstr "muet"
+
+msgctxt "#31016"
+msgid "Settings level"
+msgstr "niveau des paramètres"
+
+msgctxt "#31027"
+msgid "Install add-ons using the file browser."
+msgstr "Installer add-ons en utilisant le navigateur de fichiers"
+
+msgctxt "#31028"
+msgid "Search for an add-on from your installed repos."
+msgstr "Recherche d'un add-on de vos repos installés."
+
+msgctxt "#31022"
+msgid "Update[CR]Now"
+msgstr "Mise à jour[CR]Maintenant"
+
+msgctxt "#31030"
+msgid "Customise the home menu to your liking with the Skin Shortcuts script."
+msgstr "personnaliser le menu d'accueil à votre goût avec le script Raccourcis du thème"
+
+msgctxt "#31031"
+msgid "Customise the shutdown menu to include your favourite actions."
+msgstr "personnaliser le menu d'arrêt afin d'inclure vos actions préférées"
+
+msgctxt "#31032"
+msgid "Hide thumbnails for unwatched episodes to avoid possible spoilers."
+msgstr "Cacher les miniatures pour les épisodes visionnés pour éviter les spoilers possible"
+
+msgctxt "#31023"
+msgid "Widget Type"
+msgstr "Type de Widget"
+
+msgctxt "#31034"
+msgid ""
+"Uses a combination of Fanart and Logo to display wide "
+"icons.[CR]Alternatively create and add your own as 'ftv' artwork."
+msgstr "Utilise une combinaison de Fanart et logo pour afficher l'échelle"
+"icônes.[CR]Vous pouvez également créer et ajouter votre propre fanart et logo en tant qu'illustration 'FTV'."
+
+
+msgctxt "#31035"
+msgid ""
+"Runs Artwork Downloader in the background to fetch TV Show logos needed for "
+"wide icons."
+msgstr "Exécute Artwork Downloader en arrière-plan pour aller chercher les logos TV Show nécessaires pour"
+"icônes larges"
+
+
+msgctxt "#31036"
+msgid "Displays fanart for your media in the background."
+msgstr "Affiche le fanart pour vos médias en arrière-plan"
+
+msgctxt "#31024"
+msgid "Widget Name"
+msgstr "Nom du Widget"
+
+msgctxt "#31038"
+msgid "Select your scrapers preferred certification county."
+msgstr "Sélectionner vos scrapers préférés du pays de certification"
+
+msgctxt "#31039"
+msgid "Enable debug grid.[CR]Useful when skinning."
+msgstr "Activer la grille de débogage. [CR]Utile quand Skinning."
+
+msgctxt "#31040"
+msgid "Enable debug info.[CR]Useful for bug reporting."
+msgstr "Activer les informations de débogage. [CR]Utile pour les rapports de bogues."
+
+msgctxt "#31025"
+msgid "Widget Path"
+msgstr "Chemin du Widget"
+
+msgctxt "#31026"
+msgid "Overview"
+msgstr "Apperçu"
+
+msgctxt "#31043"
+msgid "Turn Off Randomise"
+msgstr "Eteindre la lecture Aléatoire"
+
+msgctxt "#31029"
+msgid "Addon Details"
+msgstr "Details de l'Addon"
+
+msgctxt "#31045"
+msgid "Turn On Randomise"
+msgstr "Activer la lecture Aléatoire"
+
+msgctxt "#31046"
+msgid "Turn Off Shuffle All"
+msgstr ""
+
+msgctxt "#31033"
+msgid "Launch Now"
+msgstr "Lancer maintenant"
+
+msgctxt "#31037"
+msgid "Rollback Addon"
+msgstr ""
+
+msgctxt "#31041"
+msgid "Debug grid"
+msgstr "Grille de débogage"
+
+msgctxt "#31042"
+msgid "Debug labels"
+msgstr "libllés du debogage"
+
+msgctxt "#31044"
+msgid "Local subtitle found!"
+msgstr "sous-titre local trouvé"
+
+msgctxt "#31052"
+msgid "Turn On Shuffle All"
+msgstr ""
+
+msgctxt "#31053"
+msgid "Turn Off Repeat"
+msgstr "activer le mode Repétition"
+
+msgctxt "#31054"
+msgid "Repeat This Item"
+msgstr "Répèter cette Item"
+
+msgctxt "#31055"
+msgid "Turn On Repeat All"
+msgstr "Désactiver le mode Répétition"
+
+msgctxt "#31056"
+msgid "Move, copy and delete your files with KODI's built-in file manager."
+msgstr "Déplacer, copier et supprimer vos fichiers avec le gestionnaire de fichiers intégré à KODI"
+
+msgctxt "#31057"
+msgid "Watch Again"
+msgstr "Regarder Encore"
+
+msgctxt "#31058"
+msgid "Today's weather:"
+msgstr "Météo d'Aujourd'hui"
+
+msgctxt "#31059"
+msgid "Tonight's weather:"
+msgstr "Météo de se soir"
+
+msgctxt "#31060"
+msgid "Play Now"
+msgstr "Lancer maintenant"
+
+msgctxt "#31050"
+msgid "Show Changelog"
+msgstr "Afficher Changelog"
+
+msgctxt "#31047"
+msgid "Visualisation Presets"
+msgstr ""
+
+msgctxt "#31048"
+msgid "Playlist Options"
+msgstr "Option de Playlist"
+
+msgctxt "#31049"
+msgid "Customise Home Menu"
+msgstr "Customuser le Menu d'acceuil"
+
+msgctxt "#31051"
+msgid "Settings can be accessed from the Shutdown menu or by rebooting XBMC!"
+msgstr "Les paramètres peuvent être accessibles à partir du menu d'arrêt ou en redémarrant XBMC"
+
+msgctxt "#31062"
+msgid "Choose Thumb"
+msgstr "choisissez Thumb"
+
+msgctxt "#31067"
+msgid "Choose Fanart"
+msgstr "Choisissez Fanart "
+
+msgctxt "#31068"
+msgid "IP"
+msgstr "IP"
+
+msgctxt "#31069"
+msgid "Change Rating"
+msgstr "Changer la note"
+
+msgctxt "#31070"
+msgid "Similar Titles"
+msgstr "Titres Similaire"
+
+msgctxt "#31071"
+msgid "Starring"
+msgstr "Avec"
+
+msgctxt "#31072"
+msgid "Directed by"
+msgstr "Réalisé par"
+
+msgctxt "#31073"
+msgid "Next episode"
+msgstr "Prochain Episode"
+
+msgctxt "#31074"
+msgid "Browse TV Show"
+msgstr "Parcourir TV Show"
+
+msgctxt "#31075"
+msgid "Play Trailer"
+msgstr "Lancer le Trailer"
+
+msgctxt "#31076"
+msgid "Cast and Role"
+msgstr "Casting et Rôle"
+
+msgctxt "#31077"
+msgid "Viewers Also Watched"
+msgstr "les autres ont également regardé"
+
+msgctxt "#31078"
+msgid "Sorry, we have no items for this title."
+msgstr "Désolé, nous avons aucun élément pour ce titre"
+
+msgctxt "#31079"
+msgid "Movie Widget"
+msgstr "Widget Film"
+
+msgctxt "#31080"
+msgid "TV Show Widget"
+msgstr "Widget TV show"
+
+msgctxt "#31081"
+msgid "Music Widget"
+msgstr "Widget Musique"
+
+msgctxt "#31082"
+msgid "Videos Widget"
+msgstr ""
+
+msgctxt "#31083"
+msgid "Programs Widget"
+msgstr ""
+
+msgctxt "#31084"
+msgid "Pictures Widget"
+msgstr "Widget Image"
+
+msgctxt "#31085"
+msgid "Shutdown Menu"
+msgstr "Fermer le Menu"
+
+msgctxt "#31086"
+msgid "Sorted by"
+msgstr "Trié par"
+
+msgctxt "#31087"
+msgid "Music Files"
+msgstr "Fichiers musicaux"
+
+msgctxt "#31088"
+msgid "Current Playlist"
+msgstr "Playlist Courante"
+
+msgctxt "#31089"
+msgid "View Options"
+msgstr "Options d'Affichage"
+
+msgctxt "#31090"
+msgid "Update Library"
+msgstr "Mettre à jour la Bibliothèque"
+
+msgctxt "#31091"
+msgid "Stop scanning"
+msgstr "Arrêter le Scann"
+
+msgctxt "#31092"
+msgid "Sort By"
+msgstr "trier par"
+
+msgctxt "#31093"
+msgid "Filter By"
+msgstr "filtrer par"
+
+msgctxt "#31094"
+msgid "Save Playlist"
+msgstr "Enregistrer la Playlist"
+
+msgctxt "#31095"
+msgid "Clear Playlist"
+msgstr "Effacer la selection"
+
+msgctxt "#31096"
+msgid "Your Songs"
+msgstr "Vos musiques"
+
+msgctxt "#31097"
+msgid "Music Library"
+msgstr "Bibliothèque Musique"
+
+msgctxt "#31098"
+msgid "Your Photos"
+msgstr "Vos Photos"
+
+msgctxt "#31099"
+msgid "Start Slideshow"
+msgstr "Démarrer Diaporama"
+
+msgctxt "#31061"
+msgid "Enable Horizontal home layout"
+msgstr "Activer la mise en page d'accueil horizontale"
+
+msgctxt "#31063"
+msgid "Add-ons"
+msgstr "Extensions"
+
+msgctxt "#31064"
+msgid "Custom background image"
+msgstr "Image de fond personnalisée"
+
+msgctxt "#31065"
+msgid "Hide 'Mouse' warning"
+msgstr "Avertissement 'Mouse'"
+
+msgctxt "#31066"
+msgid "Cinema Exp."
+msgstr "Cinema Expérience"
+
+msgctxt "#31105"
+msgid "Your Addons"
+msgstr "Vos Extensions"
+
+msgctxt "#31106"
+msgid "Now Playing"
+msgstr "Lancer Maintenant"
+
+msgctxt "#31107"
+msgid "TV Roles"
+msgstr "Rôles de TV"
+
+msgctxt "#31108"
+msgid "Known For"
+msgstr "Connu Pour"
+
+msgctxt "#31109"
+msgid "Watch Now"
+msgstr "Regarder Maintenant"
+
+msgctxt "#31110"
+msgid "Written by"
+msgstr "Ecrit Par"
+
+msgctxt "#31111"
+msgid "Sorry, no items where found for this search."
+msgstr "Désolé, aucun fichier n'est disponible pour cette recherche"
+
+msgctxt "#31112"
+msgid "Please try again."
+msgstr "Essayer à nouveau."
+
+msgctxt "#31113"
+msgid "Results for"
+msgstr "Résultat pour"
+
+msgctxt "#31114"
+msgid "Customise Shutdown Menu"
+msgstr "Personnaliser le Menu Shutdown"
+
+msgctxt "#31115"
+msgid ""
+"Change the skin, set language and region, change file listing options and "
+"set up a screensaver."
+msgstr "Changer la thème, définir la langue et de la région, changer le fichier listes d'options et"
+"Mettre en place un économiseur d'écran."
+
+msgctxt "#31116"
+msgid "Manage, browse for, install and modify Add-ons."
+msgstr "Gérer, rechercher, installer et modifier les Extensions"
+
+msgctxt "#31117"
+msgid ""
+"Manage your video library, set video playback options, change video listing "
+"options and set subtitle fonts."
+msgstr "Gérer votre bibliothèque de vidéo, définir les options de lecture de vidéo, le changement de liste de vidéo"
+"options et polices des sous-titres"
+
+msgctxt "#31118"
+msgid ""
+"Manage your music library, set music playback options, change music listing "
+"options, and setup song submission."
+msgstr "Gérer votre bibliothèque musicale, définir les options de lecture de vos musiques, modifier la liste des musiques"
+"options et configuration des propositions de musique"
+
+
+msgctxt "#31119"
+msgid ""
+"Manage your weather addons and set cities to collect weather information."
+msgstr "Gérer votre extension météo et des informations de la météo des villes selectionnées."
+
+
+msgctxt "#31120"
+msgid "Set picture listing options and configure slideshow settings."
+msgstr "Définir une image pour paramétrer les options et configurer le diaporama"
+
+msgctxt "#31121"
+msgid ""
+"Setup and calibrate displays, configure audio output, setup remote controls,"
+" set power saving options, enable debugging and setup master lock."
+msgstr "Configuration et calibrage des écrans, configurer la sortie audio, configuration des télécommandes,"
+"Définir les options d'économie d'énergie, activer le débogage et la configuration du verrouillage"
+
+msgctxt "#31122"
+msgid ""
+"Setup control of Kodi via UPnP and HTTP, configure file sharing, enable "
+"Zeroconf and configure AirPlay."
+msgstr "Contrôle d'installation de Kodi via UPnP et HTTP, configurer le partage de fichiers, activez"
+"Zeroconf et configure AirPlay"
+
+msgctxt "#31123"
+msgid "Profiles, File Manager, System Information and Settings Level."
+msgstr "Profils, Configuration des fichiers, Information du système et paramétrage des niveaux"
+
+msgctxt "#31124"
+msgid ""
+"Personalise your experience with profiles. Includes enabling login screen, "
+"profile creation and management."
+msgstr "Personnalisez votre expérience avec des profils. Comprend également l'écran de connexion,"
+"Création de profil et de gestion"
+
+msgctxt "#31125"
+msgid "Login"
+msgstr "Connexion"
+
+msgctxt "#31126"
+msgid "Last login"
+msgstr "dernière connexion"
+
+msgctxt "#31127"
+msgid ""
+"View your system's information. Includes storage, network, and hardware "
+"information."
+msgstr "Afficher les informations de votre système. Comprend le stockage, le réseau et le matériel"
+"information."
+
+msgctxt "#31128"
+msgid "About"
+msgstr "A propos"
+
+msgctxt "#31129"
+msgid "Kodi"
+msgstr ""
+
+msgctxt "#31130"
+msgid "Hide Unwatched Episode Thumbs"
+msgstr "Cacher les épisodes non-visionés"
+
+msgctxt "#31131"
+msgid "Enable Wide TV Show Icons"
+msgstr "activer les larges Icons TV Show"
+
+msgctxt "#31132"
+msgid "Click to download TV Show logos"
+msgstr "CLiquer pour télécharger les Logos TV Show"
+
+msgctxt "#31133"
+msgid "Enable Wide Season Icons"
+msgstr "Activer les Icons de saison"
+
+msgctxt "#31134"
+msgid "Enable Fanart"
+msgstr "Activer les Fanarts"
+
+msgctxt "#31135"
+msgid "Select Rating Country"
+msgstr "Selectionnez votre Pays"
+
+msgctxt "#31136"
+msgid "DVD Menu"
+msgstr ""
+
+msgctxt "#31137"
+msgid "Video Options"
+msgstr "Options Video"
+
+msgctxt "#31138"
+msgid "Turn Subtitles On"
+msgstr "Activer les sous-titres"
+
+msgctxt "#31139"
+msgid "Turn Subtitles Off"
+msgstr "Désactiver les sous-titres"
+
+msgctxt "#31140"
+msgid "Download Subtitles"
+msgstr "Télécharger les sous-titres"
+
+msgctxt "#31141"
+msgid "[LIGHT]Press[/LIGHT] [B]UP[/B] [LIGHT]to cancel.[/LIGHT]"
+msgstr "LIGHT]Appuyez sur[/LIGHT][B]UP[/B] [LIGHT]pour annuler. "
+
+msgctxt "#31142"
+msgid "Enable Fire TV style search"
+msgstr "Activer FireTV recherche de style"
+
+msgctxt "#31143"
+msgid "Please note: Can only be used with English keyboard layouts"
+msgstr "S'il vous plaît : Peut être vous utilisez un clavier en anglais"
+
+msgctxt "#31144"
+msgid "Not set!"
+msgstr "Non défini!"
+
+msgctxt "#31145"
+msgid "percent remaining"
+msgstr "Pourcents restant"
+
+msgctxt "#31146"
+msgid "Special"
+msgstr ""
+
+msgctxt "#31147"
+msgid "minutes"
+msgstr ""
+
+msgctxt "#31148"
+msgid "hours"
+msgstr "Heures"
+
+msgctxt "#31149"
+msgid "Hide OSD controls"
+msgstr ""
+
+msgctxt "#31150"
+msgid "Hides the Stop, Play, Pause, etc buttons from the music and video OSD."
+msgstr "Masquer les boutons Stop, Play, Pause, etc boutons de la musique et la vidéo OSD"
+
+msgctxt "#31151"
+msgid "Creator"
+msgstr "Créateur"
+
+msgctxt "#31152"
+msgid "Air Date"
+msgstr "date de l'Air"
+
+msgctxt "#31153"
+msgid "3D Options"
+msgstr ""
+
+msgctxt "#31154"
+msgid "Profile"
+msgstr ""
+
+msgctxt "#31155"
+msgid "Build Version"
+msgstr ""
+
+msgctxt "#31156"
+msgid "Capacity"
+msgstr "Capacité"
+
+msgctxt "#31157"
+msgid "Current Date and Time"
+msgstr "date et heure"
+
+msgctxt "#31158"
+msgid "Device Name"
+msgstr "Nom du périphérique"
+
+msgctxt "#31159"
+msgid "Wide"
+msgstr "large"
+
+msgctxt "#31160"
+msgid "Poster"
+msgstr "Poster"
+
+msgctxt "#31161"
+msgid "Square"
+msgstr "carré"
+
+msgctxt "#31162"
+msgid "Show"
+msgstr "Montrer"
+
+msgctxt "#31163"
+msgid "Start Party Mode"
+msgstr "Lancer le mode Party"
+
+msgctxt "#31164"
+msgid "Next Up"
+msgstr "Suivant"
+
+msgctxt "#31165"
+msgid "Choose Art"
+msgstr "Choisissez Art"
+
+msgctxt "#31166"
+msgid "Open Visualiser"
+msgstr "Ouvrir le Visualiseur"
+
+msgctxt "#31167"
+msgid "Recently Added Movies"
+msgstr "Films récémment ajoutés"
+
+msgctxt "#31168"
+msgid "Your Movies"
+msgstr "Vos Films"
+
+msgctxt "#31169"
+msgid "In Progress Movies"
+msgstr "En cours"
+
+msgctxt "#31170"
+msgid "Kids Movies"
+msgstr "Animés"
+
+msgctxt "#31171"
+msgid "Action and Adventure Movies"
+msgstr "Action et Aventure"
+
+msgctxt "#31172"
+msgid "Comedy Movies"
+msgstr "Comédie"
+
+msgctxt "#31173"
+msgid "Sci-fi Movies"
+msgstr "Science-Fiction"
+
+msgctxt "#31174"
+msgid "Top Rated Movies"
+msgstr "Top Film"
+
+msgctxt "#31175"
+msgid "Recently Updated TV Shows"
+msgstr "Série TV récemment ajouté"
+
+msgctxt "#31176"
+msgid "Your TV Shows"
+msgstr "Vos Séries TV"
+
+msgctxt "#31177"
+msgid "In Progress TV Shows"
+msgstr "Séries TV en cours"
+
+msgctxt "#31178"
+msgid "Kids TV Shows"
+msgstr "Série TV Animés"
+
+msgctxt "#31179"
+msgid "Action and Adventure TV Shows"
+msgstr "Action et Aventure"
+
+msgctxt "#31180"
+msgid "Comedy TV Shows"
+msgstr "Comédie"
+
+msgctxt "#31181"
+msgid "Sci-Fi TV Shows"
+msgstr "Science-Fiction"
+
+msgctxt "#31182"
+msgid "Top Rated TV Shows"
+msgstr "Top Série TV"
+
+msgctxt "#31183"
+msgid "Recently Played Albums"
+msgstr "Albums récemment lancés"
+
+msgctxt "#31184"
+msgid "Your Albums"
+msgstr "Vos Albums"
+
+msgctxt "#31185"
+msgid "Recently Added Albums"
+msgstr "Albums récemment ajoutés"
+
+msgctxt "#31186"
+msgid "Your Artists"
+msgstr "Vos Artistes"
+
+msgctxt "#31187"
+msgid "Your Genres"
+msgstr "Genres"
+
+msgctxt "#31188"
+msgid "Top Rated Albums"
+msgstr "Top Albums"
+
+msgctxt "#31189"
+msgid "Top Rated Songs"
+msgstr "Top Single"
+
+msgctxt "#31190"
+msgid "Your Songs"
+msgstr "Vos musiques"
+
+msgctxt "#31191"
+msgid "Video root"
+msgstr ""
+
+msgctxt "#31192"
+msgid "Your Music Videos"
+msgstr "Vos clips Videos"
+
+msgctxt "#31193"
+msgid "Your Video Add-ons"
+msgstr "Vos Extensions Vidéos"
+
+msgctxt "#31194"
+msgid "Submit"
+msgstr "Soumettre"
+
+msgctxt "#31195"
+msgid "Your Add-ons"
+msgstr "Vos Extensions"
+
+msgctxt "#31196"
+msgid "Your Android Apps"
+msgstr "Vos applications Android"
+
+msgctxt "#31197"
+msgid "Widget"
+msgstr ""
+
+msgctxt "#31198"
+msgid "View Type"
+msgstr "Type de Vue"
+
+msgctxt "#31199"
+msgid "Label Overlay"
+msgstr ""
+
+msgctxt "#31200"
+msgid "Enter Name"
+msgstr "Entrer Nom"
+
+msgctxt "#31201"
+msgid "Choose Shortcut"
+msgstr "Choisissez un raccourci"
+
+msgctxt "#31202"
+msgid "Widget Action"
+msgstr ""
+
+msgctxt "#31203"
+msgid "Square Info"
+msgstr ""
+
+msgctxt "#31204"
+msgid "Titles with"
+msgstr "Titres avec"
+
+msgctxt "#31205"
+msgid "Refresh Information"
+msgstr "Actualiser les Informations"
+
+msgctxt "#31206"
+msgid "Enable Auto-Update"
+msgstr "Activer Auto-update"
+
+msgctxt "#31207"
+msgid "Disable Auto-Update"
+msgstr "Désactiver Auto-update"
+
+msgctxt "#31208"
+msgid "Enable Higher Levels"
+msgstr "Activer les niveaux plus élevés"
+
+msgctxt "#31209"
+msgid "Disable Higher Levels"
+msgstr "Désactiver les niveaux plus élevés"
+
+msgctxt "#31210"
+msgid "Widget Group 1"
+msgstr ""
+
+msgctxt "#31211"
+msgid "Widget Group 2"
+msgstr ""
+
+msgctxt "#31212"
+msgid "Widget Group 3"
+msgstr ""
+
+msgctxt "#31213"
+msgid "Widget Group 4"
+msgstr ""
+
+msgctxt "#31214"
+msgid "Widget Group 5"
+msgstr ""
+
+msgctxt "#31215"
+msgid "Widget Group 6"
+msgstr ""
+
+msgctxt "#31216"
+msgid "Widget Group 7"
+msgstr ""
+
+msgctxt "#31217"
+msgid "Widget Group 8"
+msgstr ""
+
+msgctxt "#31218"
+msgid "Select Widget Group"
+msgstr "Selectionnez le Widget Group"
+
+msgctxt "#31219"
+msgid "Customise Widget Group"
+msgstr "Personnalisez le Widget Group"
+
+msgctxt "#31220"
+msgid "Updating widgets"
+msgstr "Mettre à jour les Widgets"
+
+msgctxt "#31221"
+msgid "Audio Add-ons"
+msgstr "Extensions Audio"
+
+msgctxt "#31222"
+msgid "Program Add-ons"
+msgstr "Exntesions Programme"
+
+msgctxt "#31223"
+msgid "Video Add-ons"
+msgstr "Extension Video"
+
+msgctxt "#31224"
+msgid "Picture Add-ons"
+msgstr "Extension Image"
+
+msgctxt "#31225"
+msgid "Set keyboard layout"
+msgstr "Définir la disposition du clavier"
+
+msgctxt "#31226"
+msgid "Select the keyboard layout used in Kodi"
+msgstr "Sélectionnez le type de clavier utilisé dans Kodi"
+
+msgctxt "#31227"
+msgid "Air time"
+msgstr ""
+
+msgctxt "#31228"
+msgid "Watch"
+msgstr "Regarder"
+
+msgctxt "#31229"
+msgid "Cancel Next Up"
+msgstr "Annuler Suivant"
+
+msgctxt "#31230"
+msgid "Sorry, no shows are airing at this time."
+msgstr "Désolé, aucune personne sur airing en ce moment"
+
+msgctxt "#31231"
+msgid "Please try again later."
+msgstr "S'il vous plaît réessayer plus tard."
+
+msgctxt "#31232"
+msgid "Cast and Role"
+msgstr "Casting et Rôle"
+
+msgctxt "#31233"
+msgid "View All Cast"
+msgstr "Voir tous le Casting"
+
+msgctxt "#31234"
+msgid "Categories"
+msgstr ""
+
+msgctxt "#31235"
+msgid "Your Rating"
+msgstr "Votre Note"
+
+# Must match #31235 without the space
+
+msgctxt "#31236"
+msgid "YourRating"
+msgstr "VotreNote"
+
+msgctxt "#31237"
+msgid "Select your rating"
+msgstr "Selectionnez votre note"
+
+msgctxt "#31238"
+msgid "This is your own personal rating and is not shared publicly"
+msgstr "Ceci est votre propre note personnelle et ne sera pas partagé publiquement"
+
+msgctxt "#31239"
+msgid "Press play to resume"
+msgstr "Appuyez sur Play pour reprendre"
+
+msgctxt "#31240"
+msgid "Not rated"
+msgstr "Non Classer"
+
+msgctxt "#31241"
+msgid "I hate it"
+msgstr "Je déteste"
+
+msgctxt "#31242"
+msgid "I don't like it"
+msgstr "Je n'aime pas"
+
+msgctxt "#31243"
+msgid "It's okay"
+msgstr "C'est correct"
+
+msgctxt "#31244"
+msgid "I like it"
+msgstr "J'aime"
+
+msgctxt "#31245"
+msgid "I love it"
+msgstr "J'adore"
+
+msgctxt "#31246"
+msgid "Location"
+msgstr "Localisation"
